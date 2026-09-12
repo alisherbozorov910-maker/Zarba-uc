@@ -1,0 +1,2 @@
+# Zarba-uc
+Uc narhlari
